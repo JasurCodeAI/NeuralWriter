@@ -5,10 +5,10 @@ This project is a graphical application that utilizes a Convolutional Neural Net
 📸 Demo
 
 ### Letter Recognition
-![Demo Letter](screenshot_let.png)
+![Demo Letter](screenshot_num.png)
 
 ### Digit Recognition
-![Demo Digit](screenshot_num.png)
+![Demo Digit](screenshot_let.png)
 
 🧠 How It Works (Architecture)
 
@@ -61,3 +61,4 @@ python app.py
 
 Developed by Jasur Abilkhairov.
 Passionate about Artificial Intelligence and Computer Vision.
+
