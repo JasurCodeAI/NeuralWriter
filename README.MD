@@ -4,11 +4,11 @@ This project is a graphical application that utilizes a Convolutional Neural Net
 
 📸 Demo
 
-### Digit Recognition
-![Demo Digit](screenshot_num.png)
-
 ### Letter Recognition
 ![Demo Letter](screenshot_let.png)
+
+### Digit Recognition
+![Demo Digit](screenshot_num.png)
 
 🧠 How It Works (Architecture)
 
