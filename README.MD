@@ -44,7 +44,7 @@ Image Processing: PIL (Pillow)
 
 Clone the repository:
 
-git clone [https://github.com/YOUR_USERNAME/NeuralWriter.git](https://github.com/YOUR_USERNAME/NeuralWriter.git)
+git clone [https://github.com/JasurCodeAI/NeuralWriter.git](https://github.com/JasurCodeAI/NeuralWriter.git)
 
 
 Install dependencies:
@@ -61,4 +61,5 @@ python app.py
 
 Developed by Jasur Abilkhairov.
 Passionate about Artificial Intelligence and Computer Vision.
+
 
